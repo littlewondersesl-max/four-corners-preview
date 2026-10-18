@@ -317,6 +317,7 @@ Everything here is CC0 (Kenney, Quaternius) or our own work (CC0). No Mixamo, no
 - Food Kit: https://kenney.nl/assets/food-kit
 - Nature Kit: https://kenney.nl/assets/nature-kit (food & plants sheet only)
 - Mini Characters: https://kenney.nl/assets/mini-characters (`character-female-b`)
+- Cube Pets 2.0: https://kenney.nl/assets/cube-pets (`animal-dog`, clips idle, walk, run, eat) — the yard dog
 - Car Kit (truck base, recoloured in round 1): https://kenney.nl/assets/car-kit
 
 ## Mover
