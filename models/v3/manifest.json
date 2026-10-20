@@ -169,7 +169,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.0756,
           0.324
         ],
@@ -204,7 +204,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.076,
           0.3215
         ],
@@ -239,7 +239,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.1759,
           0.3221
         ],
@@ -448,7 +448,7 @@
       ],
       "drawer_3": {
         "hinge_three": [
-          0.0,
+          0,
           0.096,
           0.301
         ],
@@ -462,7 +462,7 @@
       },
       "drawer_2": {
         "hinge_three": [
-          0.0,
+          0,
           0.3373,
           0.301
         ],
@@ -476,7 +476,7 @@
       },
       "drawer_1": {
         "hinge_three": [
-          0.0,
+          0,
           0.5707,
           0.301
         ],
@@ -513,7 +513,7 @@
       ],
       "drawer_1": {
         "hinge_three": [
-          0.0,
+          0,
           0.5946,
           0.2857
         ],
@@ -527,7 +527,7 @@
       },
       "drawer_2": {
         "hinge_three": [
-          0.0,
+          0,
           0.176,
           0.2857
         ],
@@ -633,7 +633,7 @@
       },
       "drawer_12": {
         "hinge_three": [
-          0.0,
+          0,
           0.4559,
           0.437
         ],
@@ -675,7 +675,7 @@
       },
       "drawer_22": {
         "hinge_three": [
-          0.0,
+          0,
           0.0959,
           0.437
         ],
@@ -840,7 +840,7 @@
       },
       "drawer_1": {
         "hinge_three": [
-          0.0,
+          0,
           0.346,
           0.2785
         ],
@@ -854,7 +854,7 @@
       },
       "drawer_2": {
         "hinge_three": [
-          0.0,
+          0,
           0.076,
           0.2785
         ],
@@ -990,7 +990,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.534,
           0.1705
         ],
@@ -1062,7 +1062,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.066,
           0.296
         ],
@@ -1097,7 +1097,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.066,
           0.295
         ],
@@ -1132,7 +1132,7 @@
       ],
       "door": {
         "hinge_three": [
-          0.0,
+          0,
           0.066,
           0.2855
         ],
@@ -1300,7 +1300,7 @@
       "door": {
         "hinge_three": [
           -0.25,
-          0.0,
+          0,
           0.151
         ],
         "axis": "y",
@@ -1370,7 +1370,7 @@
       "door": {
         "hinge_three": [
           -0.25,
-          0.0,
+          0,
           0.1455
         ],
         "axis": "y",
@@ -1731,7 +1731,7 @@
       ],
       "lid": {
         "hinge_three": [
-          0.0,
+          0,
           0.42,
           -0.205
         ],
@@ -1766,7 +1766,7 @@
       ],
       "lid": {
         "hinge_three": [
-          0.0,
+          0,
           0.44,
           -0.155
         ],
@@ -1801,7 +1801,7 @@
       ],
       "lid": {
         "hinge_three": [
-          0.0,
+          0,
           0.42,
           -0.205
         ],
@@ -2408,14 +2408,14 @@
       "file": "glb/plates_a.glb",
       "thumb": "thumbs-web/plates_a.webp",
       "label": "Teal plate",
-      "desc": "Puffy teal plate with a cream centre.",
+      "desc": "Flat teal dinner plate with a slim rim and a cream well.",
       "source": "Own design (Blender procedural, image-first, made for Four Corners v3)",
       "licence": "CC0 1.0",
-      "bytes": 73916,
+      "bytes": 26132,
       "size_m": {
-        "w": 0.234,
-        "d": 0.234,
-        "h": 0.043
+        "w": 0.22,
+        "d": 0.22,
+        "h": 0.016
       },
       "nodes": [
         "body"
@@ -2429,14 +2429,14 @@
       "file": "glb/plates_b.glb",
       "thumb": "thumbs-web/plates_b.webp",
       "label": "Coral plate",
-      "desc": "Puffy coral plate with a cream centre.",
+      "desc": "Flat coral dinner plate with a slim rim and a cream well.",
       "source": "Own design (Blender procedural, image-first, made for Four Corners v3)",
       "licence": "CC0 1.0",
-      "bytes": 73916,
+      "bytes": 26132,
       "size_m": {
-        "w": 0.234,
-        "d": 0.234,
-        "h": 0.043
+        "w": 0.22,
+        "d": 0.22,
+        "h": 0.016
       },
       "nodes": [
         "body"
@@ -2449,15 +2449,15 @@
       "key": "c",
       "file": "glb/plates_c.glb",
       "thumb": "thumbs-web/plates_c.webp",
-      "label": "Square lilac plate",
-      "desc": "Rounded square lilac plate with a cream centre.",
+      "label": "Lilac plate",
+      "desc": "Flat lilac dinner plate with a slim rim and a cream well.",
       "source": "Own design (Blender procedural, image-first, made for Four Corners v3)",
       "licence": "CC0 1.0",
-      "bytes": 35284,
+      "bytes": 29200,
       "size_m": {
-        "w": 0.22,
-        "d": 0.22,
-        "h": 0.04
+        "w": 0.216,
+        "d": 0.216,
+        "h": 0.016
       },
       "nodes": [
         "body"
